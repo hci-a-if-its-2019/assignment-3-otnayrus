@@ -5,11 +5,8 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below.
+[Prototype Video](https://youtu.be/IYG0LkOd58M?t=72)
 
 ---
 
@@ -27,19 +24,26 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- Male, 19 years old
+- Currently studying at Marine Engineering ITS.
+- Is the participant from the previous CI.
+- Selecting this participant because he is a novice, and have no experience in using Any.do mobile application. 
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- Male, 20 years old
+- Currently studying at Information Systems Undip.
+- Selecting this participant to add perspective from a mid-skilled person, but doesn't have any experience operating this mobile app.
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
+
+1. Comment about overall home display.
+2. Try to sort the activities based on name.
+3. Try to filter the activities based on tags.
+4. Try to search the activities based on 'Beli' keyword.
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
@@ -51,10 +55,22 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **You**: Kali ini hampir sama yang seperti dulu, silakan beri komentar sejelas-jelasnya, misalkan ada yang positif silakan dikomentari, kalau misalkan ada yang negatif disebutkan, bagus lagi kalau kasih saran.
+ 1. **Participant**: Ya.
+ 1. **Y**: Bagaimana komentarmu terhadap overall homepage
+ 1. **P**: Overall simple, UI-nya mirip IOS.
+ 1. **Y**: Masih ingat homepage pada CI yang dulu?
+ 1. **P**: Masih
+ 1. **Y**: Ada yang beda atau tidak?
+ 1. **P**: Ada font tulisan all tasks nya beda.
+ 1. **Y**: Ada saran?
+ 1. **P**: Mana saya tau, kan saya belum pakai fitur2nya.
+ 1. **Y**: Coba semua aktivitas yang ditampilkan diurutkan berdasarkan nama.
+ 1. **P**: (Mencoba mengklik semua tombol yang terlihat)
+ 1. **Y**: Diurutkan berdasarkan namanya, jadi tidak perlu menambah aktivitas lagi.
+ 1. **P**: Mana saya tau, kan saya belum pakai fitur2nya.
+ 
+ 
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
