@@ -6,6 +6,7 @@
 
 ## Operating the Prototype
 Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below.
+
 [Prototype Video](https://youtu.be/IYG0LkOd58M?t=72)
 
 ---
@@ -56,7 +57,8 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
 
 #### a. Transcript with Participant 1
 ```text
- 1. Me: Kali ini hampir sama yang seperti dulu, silakan beri komentar sejelas-jelasnya, misalkan ada yang positif silakan dikomentari, kalau misalkan ada yang negatif disebutkan, bagus lagi kalau kasih saran.
+ 1. Me: Kali ini hampir sama yang seperti dulu, silakan beri komentar sejelas-jelasnya, misalkan ada yang positif 
+ silakan dikomentari, kalau misalkan ada yang negatif disebutkan, bagus lagi kalau kasih saran.
  2. Participant: Ya.
  3. M : Bagaimana komentarmu terhadap overall homepage
  4. P : Overall simple, UI-nya mirip IOS.
@@ -93,14 +95,21 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
 32. M : Apakah ada saran atau komentar dari search tadi?
 33. P : Mau tanya, kalau aslinya nanti resultnya real-time atau tidak?
 34. M : Tidak, muncul halaman baru.
-35. P : Tombol centang nya untuk search dibesarin sedikit. Kalau pakai hape tombol bulat yang kecil ini agak susah. Atau search result jangan dibuat page baru, jadi alih-alih membuat search bar yang satu layar, coba bikin kontainer untuk search di homepage. Itu bisa membantu kalau list kita banyak.
+35. P : Tombol centang nya untuk search dibesarin sedikit. Kalau pakai hape tombol bulat yang kecil ini agak susah. 
+Atau search result jangan dibuat page baru, jadi alih-alih membuat search bar yang satu layar, coba bikin kontainer 
+untuk search di homepage. Itu bisa membantu kalau list kita banyak.
 36. M : Baik, sebagai penutup, silakan ceritakan atau beri komentar terhadap overall yang sudah Anda jalankan.
-37. P : Kalau di hp kan sering scroll keatas ya, apa baiknya tombol utility ditaruh di atas saja, jadi kalau misalkan di scroll tidak menghalangi jempol kita. Yang kasus search tadi, misal jadi ditaruh diatas, waktu dipencet bisa muncul kontainer buat nyari, jadi bisa kita bikin real-time pencarian, dengan hasil kayak dropdown di bawah kontainernya itu. 
+37. P : Kalau di hp kan sering scroll keatas ya, apa baiknya tombol utility ditaruh di atas saja, jadi kalau 
+misalkan di scroll tidak menghalangi jempol kita. Yang kasus search tadi, misal jadi ditaruh diatas, waktu dipencet 
+bisa muncul kontainer buat nyari, jadi bisa kita bikin real-time pencarian, dengan hasil kayak dropdown di bawah 
+kontainernya itu. 
 38. M : Baik, betul juga itu.
-39. P : Atau kalau dikasih dropdown, semua list digeser kebawah semua. Soalnya kalau search bar nya di page baru kayak berkesan hilang semua.
+39. P : Atau kalau dikasih dropdown, semua list digeser kebawah semua. Soalnya kalau search bar nya di page baru 
+kayak berkesan hilang semua.
 40. P : Kalau yang sort , dikasih pop-up dibawahnya aja.
 41. M : Baik, ada lagi?
-42. P : Menurut saya, ini kurang berwarna. Kalau bisa dibuat ada icon2 minimalis sama colorful, karena orang akan cepat bosan kalau aplikasi penjadwalan tapi 'monochrome'
+42. P : Menurut saya, ini kurang berwarna. Kalau bisa dibuat ada icon2 minimalis sama colorful, karena orang akan 
+cepat bosan kalau aplikasi penjadwalan tapi 'monochrome'
 43. M : Maksudnya kalau tiap2 tag memiliki warna unik , seperti itu?
 44. P : Ya bisa.
 45. M : Baik, sepertinya cukup. Terimakasih.
@@ -109,7 +118,52 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
  
 
 #### b. Transcript with Participant 2
-
+```text
+ 1. Me : Disini nanti kamu akan menguji mockup dari suatu mobile application. (Menampilkan app) Jadi ini merupakan
+ aplikasi mobile Any.do, merupakan aplikasi yang bisa mengelola jadwalmu, sama reminder. Jadi nanti tugasmu itu
+ menguji sistemnya, bukan saya yang menguji kemampuanmu. Nanti saya memberi instruksi untuk menjalankan ini.
+ Silakan diceritakan dan diberi komentar tentang apa yang Anda lakukan nantinya. Silakan diutarakan seperti, saya
+ suka biru, atau ini kurang kecil, dll.
+ 2. Participant : Baik
+ 3. M : (menampilkan homepage) Coba berikan overall / first impression terhadap homepage ini.
+ 4. P : Saya suka homepagenya, tulisannya agak terlalu tebal gitu, ditipisin lebih bagus. Saya agak familiar
+ dengan desain kayak gini. Pembagian personal, work, kategori cukup bagus.
+ 5. M : Ok. Ke instruksi pertama, coba urutkan aktivitas sesuai dengan namanya.
+ 6. P : Ini di klik di drag? (mencoba mengurutkan manual)
+ 7. M : Coba gunakan fitur yang tersedia.
+ 8. P : (sempat memilih filter, namun menyadari ada sort)
+(03:56 menemukan sort dan berhasil mengurutkan)
+ 9. M : Apakah sudah terurut?
+10. P : Ya. Sudah.
+11. M : Ada komentar terhadap apa yang sudah dilakukan?
+12. P : Bagus si. Agak ambigu untuk pilihan tag di sort itu maksudnya apa, soalnya di home tidak ada yang 
+mencerminkan tag. Sama priority tidak ada tandanya di home, mana yang merah / tinggi , mana yang rendah.
+Lebih baik dikasih warna di aktivitasnya.
+13. M : Baik, ke instruksi selanjutnya. Coba aktivitasnya dikelompokkan berdasarkan tag.
+14. P : (Masih mencoba di sort) Maksudnya?
+15. M : Tampilannya nanti dikelompokkan sesuai tagnya nanti.
+(06:03 menemukan filter dan berhasil mengelompokkan)
+16. M : Ada yang berbeda atau tidak?
+17. P : Tidak.
+18. M : Coba dikelompokkan menjadi waktu, apakah ada perbedaan pengelompokkan dengan tag?
+19. P : Tidak. (tidak menyadari perubahan kategori)
+20. M : (menjelaskan perubahan)
+21. P : Oh. Baru tau. Mungkin gini, saya kurang jelas mengenai tag. Menurut saya ambigu, lebih cocok diganti jadi 
+filter by category.
+22. M : Coba yang ketiga, cari aktivitas dengan kata kunci 'Beli'
+(09:24 menemukan search dan berhasil mencari)
+23. M : Coba dikembalikan ke halaman utama.
+24. P : Sudah. Jadi waktu muncul search result, tanda silang dikasih warna berbeda atau hapus aja, 
+karena ujungnya tombol ini kurang berguna karena kebanyakan user Android memilih untuk memakai return/back 
+di hpnya.
+25. M : Dimengerti, ada lagi yang mau diungkapkan?
+26. P : Waktu result nya muncul harus di close dulu untuk mbuka search lagi. Lebih baik dibuat di halaman result
+ini, bisa nge-search lagi tanpa balik ke halaman utama.
+27. M : Terakhir, beri komentar terhadap overall di sistem, apa yang sudah anda lakukan.
+28. P : Kalau home sudah enak dipandang. Lebih baik dikasih warna per aktivitas sehingga jelas, aktivitas itu masuk
+ke kategori / prioritas apa. Sama yang ambiguitas tag.
+29. M : Baik, sepertinya cukup. Terima kasih.
+```
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
