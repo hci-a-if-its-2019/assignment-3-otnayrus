@@ -25,14 +25,14 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
 
 #### a. Description of Participant 1
 - Male, 19 years old
-- Currently studying at Marine Engineering ITS.
+- Currently studying at Marine Engineering (ITS).
 - Is the participant from the previous CI.
 - Selecting this participant because he is a novice, and have no experience in using Any.do mobile application. 
 
 #### b. Description of Participant 2
 - Male, 20 years old
-- Currently studying at Information Systems Undip.
-- Selecting this participant to add perspective from a mid-skilled person, but doesn't have any experience operating this mobile app.
+- Currently studying at Information Systems (not ITS).
+- Selecting this participant to add perspective from a mid-skilled person in using varieties of software, but doesn't have any experience operating this mobile app.
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
@@ -55,28 +55,61 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Kali ini hampir sama yang seperti dulu, silakan beri komentar sejelas-jelasnya, misalkan ada yang positif silakan dikomentari, kalau misalkan ada yang negatif disebutkan, bagus lagi kalau kasih saran.
- 1. **Participant**: Ya.
- 1. **Y**: Bagaimana komentarmu terhadap overall homepage
- 1. **P**: Overall simple, UI-nya mirip IOS.
- 1. **Y**: Masih ingat homepage pada CI yang dulu?
- 1. **P**: Masih
- 1. **Y**: Ada yang beda atau tidak?
- 1. **P**: Ada font tulisan all tasks nya beda.
- 1. **Y**: Ada saran?
- 1. **P**: Mana saya tau, kan saya belum pakai fitur2nya.
- 1. **Y**: Coba semua aktivitas yang ditampilkan diurutkan berdasarkan nama.
- 1. **P**: (Mencoba mengklik semua tombol yang terlihat)
- 1. **Y**: Diurutkan berdasarkan namanya, jadi tidak perlu menambah aktivitas lagi.
- 1. **P**: Mana saya tau, kan saya belum pakai fitur2nya.
- 
+```text
+ 1. Me: Kali ini hampir sama yang seperti dulu, silakan beri komentar sejelas-jelasnya, misalkan ada yang positif silakan dikomentari, kalau misalkan ada yang negatif disebutkan, bagus lagi kalau kasih saran.
+ 2. Participant: Ya.
+ 3. M : Bagaimana komentarmu terhadap overall homepage
+ 4. P : Overall simple, UI-nya mirip IOS.
+ 5. M : Masih ingat homepage pada CI yang dulu?
+ 6. P : Masih
+ 7. M : Ada yang beda atau tidak?
+ 8. P : Ada font tulisan all tasks nya beda.
+ 9. M : Ada saran?
+10. P : Mana saya tau, kan saya belum pakai fitur2nya.
+11. M : Coba semua aktivitas yang ditampilkan diurutkan berdasarkan nama.
+12. P : (Mencoba mengklik semua tombol yang terlihat)
+13. M : Diurutkan berdasarkan namanya, jadi tidak perlu menambah aktivitas lagi.
+14. P : Kok tidak bisa dipencet (sambil mengklik tombol2 lain)
+15. M : Ya, memang beberapa tombol hanya bisa dipencet, yang terkait dengan instruksi saja.
+(02:10 menemukan sort dan berhasil melakukan sort)
+16. P : Sudah, terurutkan sesuai abjad.
+17. M : Ada komentar terhadap apa yang baru saja dikerjakan?
+18. P : Biasa aja sih, kayanya gausah pakai model bullet. Langsung pakai tombol saja.
+19. M : Maksudnya pakai tombol seperti apa?
+20. P : Langsung pakai block-block aja. Itu saja.
+21. M : Ok, ke instruksi kedua, coba dikelompokkan berdasarkan tag.
+22. P : (memilih menu sort, kemudian mencoba menu filter, memilih bullet tag, confirm)
+(03:44 menemukan filter dan menggunakan filter tag)
+23. M : Apa yang berubah?
+24. P : Kalau tadi kategorinya pakai time munculnya berdasarkan waktu, kalau ini work dan personal.
+25. M : Apa yang anda rasakan, adakah komentar?
+26. P : Udah bagus, memang filter menjadi kewajiban bagi aplikasi to-do seperti ini.
+27. M : Setelah ini, coba untuk mencari dari aktivitas dengan kata kunci 'Beli'
+28. P : (menemukan search, mencoba menghapus kata kunci yang sudah disediakan di mock up, kemudian memilih proceed.)
+(05:02 menemukan search dan berhasil melakukan pencarian)
+29. P : Sudah.
+30. M : Coba dikembalikan ke homepage.
+31. P : (menekan x di sebelah search result untuk menutup search) Sudah.
+32. M : Apakah ada saran atau komentar dari search tadi?
+33. P : Mau tanya, kalau aslinya nanti resultnya real-time atau tidak?
+34. M : Tidak, muncul halaman baru.
+35. P : Tombol centang nya untuk search dibesarin sedikit. Kalau pakai hape tombol bulat yang kecil ini agak susah. Atau search result jangan dibuat page baru, jadi alih-alih membuat search bar yang satu layar, coba bikin kontainer untuk search di homepage. Itu bisa membantu kalau list kita banyak.
+36. M : Baik, sebagai penutup, silakan ceritakan atau beri komentar terhadap overall yang sudah Anda jalankan.
+37. P : Kalau di hp kan sering scroll keatas ya, apa baiknya tombol utility ditaruh di atas saja, jadi kalau misalkan di scroll tidak menghalangi jempol kita. Yang kasus search tadi, misal jadi ditaruh diatas, waktu dipencet bisa muncul kontainer buat nyari, jadi bisa kita bikin real-time pencarian, dengan hasil kayak dropdown di bawah kontainernya itu. 
+38. M : Baik, betul juga itu.
+39. P : Atau kalau dikasih dropdown, semua list digeser kebawah semua. Soalnya kalau search bar nya di page baru kayak berkesan hilang semua.
+40. P : Kalau yang sort , dikasih pop-up dibawahnya aja.
+41. M : Baik, ada lagi?
+42. P : Menurut saya, ini kurang berwarna. Kalau bisa dibuat ada icon2 minimalis sama colorful, karena orang akan cepat bosan kalau aplikasi penjadwalan tapi 'monochrome'
+43. M : Maksudnya kalau tiap2 tag memiliki warna unik , seperti itu?
+44. P : Ya bisa.
+45. M : Baik, sepertinya cukup. Terimakasih.
+(end)
+``` 
  
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
