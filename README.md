@@ -7,22 +7,13 @@
 ## Operating the Prototype
 Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below.
 
-[Prototype Video](https://youtu.be/IYG0LkOd58M?t=72)
+[Prototype Video](https://www.youtube.com/watch?v=z768xs42sPw)
 
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
 - Male, 19 years old
@@ -36,10 +27,6 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
 - Selecting this participant to add perspective from a mid-skilled person in using varieties of software, but doesn't have any experience operating this mobile app.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
 
 1. Comment about overall home display.
 2. Try to sort the activities based on name.
@@ -78,7 +65,8 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
 (02:10 menemukan sort dan berhasil melakukan sort)
 16. P : Sudah, terurutkan sesuai abjad.
 17. M : Ada komentar terhadap apa yang baru saja dikerjakan?
-18. P : Biasa aja sih, kayanya gausah pakai model bullet, kurang bagus, mending langsung pakai tombol saja.
+18. P : Biasa aja sih, kayanya gausah pakai model bullet, kurang bagus, mending langsung pakai 
+tombol saja.
 19. M : Maksudnya pakai tombol seperti apa?
 20. P : Lebih bagus langsung pakai block-block aja. Itu saja.
 21. M : Ok, ke instruksi kedua, coba dikelompokkan berdasarkan tag.
@@ -89,7 +77,8 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
 25. M : Apa yang anda rasakan, adakah komentar?
 26. P : Udah bagus, memang filter menjadi kewajiban bagi aplikasi to-do seperti ini.
 27. M : Setelah ini, coba untuk mencari dari aktivitas dengan kata kunci 'Beli'
-28. P : (menemukan search, mencoba menghapus kata kunci yang sudah disediakan di mock up, kemudian memilih proceed.)
+28. P : (menemukan search, mencoba menghapus kata kunci yang sudah disediakan di mock up, kemudian 
+memilih proceed.)
 (05:02 menemukan search dan berhasil melakukan pencarian)
 29. P : Sudah.
 30. M : Coba dikembalikan ke homepage.
@@ -100,7 +89,8 @@ Remaked hi-fi prototype using Adobe XD. Linked the prototype demonstration below
 35. P : Tombol centang nya untuk search dibesarin sedikit. Kalau pakai hape tombol bulat yang kecil ini 
 agak susah. Atau search result jangan dibuat page baru, jadi alih-alih membuat search bar yang satu layar, 
 coba bikin kontainer untuk search di homepage. Itu bisa membantu kalau list kita banyak.
-36. M : Baik, sebagai penutup, silakan ceritakan atau beri komentar terhadap overall yang sudah Anda jalankan.
+36. M : Baik, sebagai penutup, silakan ceritakan atau beri komentar terhadap overall yang sudah 
+Anda jalankan.
 37. P : Kalau di hp kan sering scroll keatas ya, apa baiknya tombol utility ditaruh di atas saja, jadi 
 kalau misalkan di scroll tidak menghalangi jempol kita. Yang kasus search tadi, misal jadi ditaruh 
 diatas, waktu dipencet bisa muncul kontainer buat nyari, jadi bisa kita bikin real-time pencarian, 
@@ -122,11 +112,12 @@ karena orang akan cepat bosan kalau aplikasi penjadwalan tapi 'monochrome'
 #### b. Transcript with Participant 2
 ```text
 (begin)
- 1. Me : Disini nanti kamu akan menguji mockup dari suatu mobile application. (Menampilkan app) Jadi ini 
- merupakan aplikasi mobile Any.do, merupakan aplikasi yang bisa mengelola jadwalmu, sama reminder. 
- Jadi nanti tugasmu itu menguji sistemnya, bukan saya yang menguji kemampuanmu. Nanti saya memberi 
- instruksi untuk menjalankan ini. Silakan diceritakan dan diberi komentar tentang apa yang Anda 
- lakukan nantinya. Silakan diutarakan seperti, saya suka biru, atau ini kurang kecil, dll.
+ 1. Me : Disini nanti kamu akan menguji mockup dari suatu mobile application. (Menampilkan app) 
+ Jadi ini merupakan aplikasi mobile Any.do, merupakan aplikasi yang bisa mengelola jadwalmu, 
+ sama reminder. Jadi nanti tugasmu itu menguji sistemnya, bukan saya yang menguji kemampuanmu. 
+ Nanti saya memberi instruksi untuk menjalankan ini. Silakan diceritakan dan diberi komentar 
+ tentang apa yang Anda lakukan nantinya. Silakan diutarakan seperti, saya suka biru, 
+ atau ini kurang kecil, dll.
  2. Participant : Baik
  3. M : (menampilkan homepage) Coba berikan overall / first impression terhadap homepage ini.
  4. P : Saya suka homepagenya, tulisannya agak terlalu tebal gitu, ditipisin lebih bagus. 
@@ -151,13 +142,13 @@ merah / tinggi , mana yang rendah. Lebih baik dikasih warna di aktivitasnya.
 18. M : Coba dikelompokkan menjadi waktu, apakah ada perbedaan pengelompokkan dengan tag?
 19. P : Tidak. (tidak menyadari perubahan kategori)
 20. M : (menjelaskan perubahan)
-21. P : Oh. Baru tau. Mungkin gini, saya kurang jelas mengenai tag. Menurut saya ambigu, lebih cocok 
-diganti jadi filter by category.
+21. P : Oh. Baru tau. Mungkin gini, saya kurang jelas mengenai tag. Menurut saya ambigu, lebih 
+cocok diganti jadi filter by category.
 22. M : Coba yang ketiga, cari aktivitas dengan kata kunci 'Beli'
 (09:24 menemukan search dan berhasil mencari)
 23. M : Coba dikembalikan ke halaman utama.
-24. P : Sudah. Waktu result nya muncul harus di close dulu untuk mbuka search lagi, ini ribet. Lebih baik dibuat di 
-halaman result ini, bisa nge-search lagi tanpa balik ke halaman utama.
+24. P : Sudah. Waktu result nya muncul harus di close dulu untuk mbuka search lagi, ini ribet. 
+Lebih baik dibuat di halaman result ini, bisa nge-search lagi tanpa balik ke halaman utama.
 25. M : Baik, sepertinya cukup. Terima kasih.
 (end)
 ```
@@ -230,9 +221,11 @@ This prototype below made by some consideration based on `Feedback and Incidence
 
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+
 In general, from usability evaluation, I can get feedbacks and different perspective, or maybe some ideas to make the design more better at the context of usabilities, because I got feedbacks from the possible future users of the app / who will use the app. It also helps us (designers) to think what's good for us doesn't mean it's always also good to the users. So we doing Usability evaluation to ensure the design is fitted to the user needs.
 
 ### High-Fidelity Interactive-Prototype
-Using Adobe XD. 
+
+Using Adobe XD. Demonstration in video below.
+
+[Prototype Video](https://youtu.be/3ND8can9kMY)
